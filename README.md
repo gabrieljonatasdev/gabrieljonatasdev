@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00FF00&height=120&section=header"/>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO!;My+name+is+Gabriel+Jônatas;I'm+28+years+old;I'm+from+Brazil;Data+Scientist;Be+Wellcome!)](https://git.io/typing-svg)
