@@ -1,9 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<h2 align="left">Stats</h2>
 
+###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=1E90FF&size=35&center=true&lines=HELLO!;My+name+is+Gabriel+Jônatas;I'm+28+years+old;I'm+from+Brazil;Data+Scientist;Be+Wellcome!)](https://git.io/typing-svg)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrieljonatasdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrieljonatasdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrieljonatasdev&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
- ### Main skills:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
-
+###
